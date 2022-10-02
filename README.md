@@ -1,2 +1,2 @@
 # HTML
-How to create a website in HTML 
+Few basics of HTML 
